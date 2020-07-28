@@ -8,3 +8,5 @@ function writeCards(people, event) {
     console.log(`Thank you, ${people[i]}, for the wonderful ${event} gift!`)};
   }
 }
+
+writeCards(people, event)
