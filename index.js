@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-const people = ["Ada", "Brendan", "Ali"];
+const people = ["Lisa", "Kaitlin", "Jan"];
 const event = "birthday";
 
 function writeCards(people, event) {
